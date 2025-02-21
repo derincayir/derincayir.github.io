@@ -6,23 +6,30 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am doing my PhD in Computer Science at Florida International University where my research is on the application of ML and AI to understand security and privacy of emerging technologies. I am passionate about developing technologies that enhance the lives of individuals. 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Publications
+============
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- <b>Speak Up, I’m Listening: Extracting Speech from Zero-Permission VR Sensors.</b>  <br/>
+<b>Derin Cayir<b>, Reham Mohamed Aburas, Riccardo Lazzeretti, Marco Angelini, Abbas Acar, Mauro Conti, Z. Berkay Celik and Selcuk Uluagac  <br/>
+NDSS 2025 
+<br/>
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- <b>Augmenting Security and Privacy in the Virtual Realm: An Analysis of Extended Reality Devices.</b>  <br/>
+ <b>Derin Cayir<b>, Abbas Acar, Riccardo Lazzeretti, Marco Angelini, Mauro Conti, and Selcuk Uluagac  <br/>
+Usenix Security Symposium 2024 <a href="https://derincayir.github.io/files/SPM_Augmenting.pdf">[PDF]</a>
+<br/>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Recent News
+===========
+
+<ul>
+  <li>Awarded NDSS Internet Society Fellowship [Feb 2025]! <a href="https://www.internetsociety.org/fellowships/ndss-symposium/2025-fellows/">Visit Fellowship Page</a></li>
+  <li>Presenting at NDSS 2025, February 24 2025 in San Diego: "Speak Up, I’m Listening: Extracting Speech from Zero-Permission VR Sensors" [Feb 2025]</li>
+  <li>Joining Meta as a Research Scientist Intern to work on the SpeechAI team in Redmond Reality Labs! [Dec 2024]</li>
+  <li>Awarded 2023 Best Paper Award for IEEE Security and Privacy Magazine: "Augmenting Security and Privacy in the Virtual Realm: An Analysis of Extended Reality Devices"! [Dec 2024]</li>
+</ul>
 
 Site-wide configuration
 ------
