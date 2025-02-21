@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,16 +10,16 @@ I am doing my PhD in Computer Science at Florida International University where 
 
 Publications
 ============
-
 - <b>Speak Up, I’m Listening: Extracting Speech from Zero-Permission VR Sensors.</b>  <br/>
-<b>Derin Cayir<b>, Reham Mohamed Aburas, Riccardo Lazzeretti, Marco Angelini, Abbas Acar, Mauro Conti, Z. Berkay Celik and Selcuk Uluagac  <br/>
-NDSS 2025<a href="https://derincayir.github.io/files/2025-164-paper.pdf">[PDF]</a> 
+<b>Derin Cayir</b>, Reham Mohamed Aburas, Riccardo Lazzeretti, Marco Angelini, Abbas Acar, Mauro Conti, Z. Berkay Celik and Selcuk Uluagac  <br/>
+NDSS 2025 <a href="https://derincayir.github.io/files/2025-164-paper.pdf">[PDF]</a> 
 <br/>
 
 - <b>Augmenting Security and Privacy in the Virtual Realm: An Analysis of Extended Reality Devices.</b>  <br/>
- <b>Derin Cayir<b>, Abbas Acar, Riccardo Lazzeretti, Marco Angelini, Mauro Conti, and Selcuk Uluagac  <br/>
-IEEE Security and Privacy Magazine 2024<a href="https://derincayir.github.io/files/SPM_Augmenting.pdf">[PDF]</a>
+<b>Derin Cayir</b>, Abbas Acar, Riccardo Lazzeretti, Marco Angelini, Mauro Conti, and Selcuk Uluagac  <br/>
+IEEE Security and Privacy Magazine 2024 <a href="https://derincayir.github.io/files/SPM_Augmenting.pdf">[PDF]</a>
 <br/>
+
 
 Recent News
 ===========
