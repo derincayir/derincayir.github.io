@@ -6,7 +6,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am doing my PhD in Computer Science at Florida International University where my research is on the application of ML and AI to understand security and privacy of emerging technologies. I am passionate about developing technologies that enhance the lives of individuals. 
+I am doing my PhD in Computer Science at Florida International University where my research is on the application of ML and AI to understand security and privacy of emerging technologies. I am passionate about developing technologies that enhance the lives of individuals. In the summer of 2025, I will join Meta as a Machine Learning Research Scientist Intern, focusing on wearable technologies.
+
+Education
+============
+- <b>PhD in Computer Science</b>  <br/>
+Florida International University 2022-2026 (expected)  <br/>
+4.00 GPA <br/>
+<br/>
+
+- <b>BS in Electrical and Electronics Engineering</b>  <br/>
+Bilkent University 2018-2022  <br/>
+<br/>
 
 Publications
 ============
