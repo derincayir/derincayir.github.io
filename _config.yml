@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Derin Cayir / Site Title"
+title                    : "Derin Cayir / About Me"
 title_separator          : "-"
 name                     : &name "Derin Cayir"
 description              : &description "personal description"
