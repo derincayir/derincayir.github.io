@@ -25,8 +25,8 @@ Recent News
 ===========
 
 <ul>
-  <li>Awarded NDSS Internet Society Fellowship [Feb 2025]! <a href="https://www.internetsociety.org/fellowships/ndss-symposium/2025-fellows/">Visit Fellowship Page</a></li>
+  <li>Awarded <a href="https://www.internetsociety.org/fellowships/ndss-symposium/2025-fellows/">NDSS Internet Society Fellowship</a> [Feb 2025]! </li>
   <li>Presenting at NDSS 2025, February 24 2025 in San Diego: "Speak Up, I’m Listening: Extracting Speech from Zero-Permission VR Sensors" [Feb 2025]</li>
   <li>Joining Meta as a Research Scientist Intern to work on the SpeechAI team in Redmond Reality Labs! [Dec 2024]</li>
-  <li>Awarded 2023 Best Paper Award for IEEE Security and Privacy Magazine: "Augmenting Security and Privacy in the Virtual Realm: An Analysis of Extended Reality Devices"! [Dec 2024]</li>
+  <li>Awarded 2023 Best Paper Award for IEEE Security and Privacy Magazine by the IEEE Computer Society Publications Board: "Augmenting Security and Privacy in the Virtual Realm: An Analysis of Extended Reality Devices"! [Dec 2024]</li>
 </ul>
